@@ -1,14 +1,15 @@
 # BussidVIP
 
 
-         HOW TO INSTALL
+         DOWNLOADS INI
 
-Download
 Termux v0.119.1
 Bussid v3.6.1
 HttpCanary 
 
-cara pasang
+
+          CARA PASANG
+          
 
 pkg update
 
@@ -23,7 +24,9 @@ python3 -m pip install -r reque.txt
 python3 V1.py Atau python3 V2.py
 
 
-Password ( saat launch scriptnya )
+
+
+               PASSWORD!
 
 V1=(No Pw)
 
