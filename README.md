@@ -20,6 +20,8 @@ pkg upgrade
 
 pkg install python3
 
+git clone https://github.com/Fathircuy/BussidVIP
+
 cd bussidvip
 
 python3 -m pip install -r reque.txt
