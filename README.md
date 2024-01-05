@@ -11,10 +11,15 @@ HttpCanary
 cara pasang
 
 pkg update
+
 pkg upgrade
+
 pkg install python3
+
 cd bussidvip
+
 python3 -m pip install -r reque.txt
+
 python3 V1.py Atau python3 V2.py
 
 
