@@ -22,7 +22,7 @@ pkg install python3
 
 git clone https://github.com/Fathircuy/BussidVIP
 
-cd bussidvip
+cd BussidVIP
 
 python3 -m pip install -r reque.txt
 
